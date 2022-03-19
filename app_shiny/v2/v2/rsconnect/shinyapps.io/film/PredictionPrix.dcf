@@ -1,0 +1,13 @@
+name: PredictionPrix
+title: PredictionPrix
+username:
+account: film
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5776521
+bundleId: 5639532
+url: https://film.shinyapps.io/PredictionPrix/
+when: 1646345765.80668
+lastSyncTime: 1646345765.80668
+asMultiple: FALSE
+asStatic: FALSE
